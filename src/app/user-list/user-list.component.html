@@ -1,0 +1,13 @@
+<table class="table table-striped" *ngIf="personnes.length != 0">
+  <th>nom</th>
+  <th>prenom</th>
+  <th>CV</th>
+  <!-- directive structurelle -->
+  <tr *ngFor="let p of personnes">
+    <td>{{ p.nom }}</td>
+    <td>{{ p.prenom }}</td>
+    <td>
+      <button class="btn btn-primary" type="submit">CV</button>
+    </td>
+  </tr>
+</table>
