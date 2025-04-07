@@ -8,7 +8,7 @@
 
 ## 🌱 Branches principales
 
-- **[develop](https://github.com/dimitrilory44/ProjetPortfolio/tree/legacy)** : Branche de la version actuelle de l'application.
+- **[develop](https://github.com/dimitrilory44/angular-cvtheque/tree/develop)** : Branche de la version actuelle de l'application.
 - **[frontend/angular](https://github.com/dimitrilory44/angular-cvtheque/tree/frontend/angular)** : Branche de l'application coté client
 - **[backend/spring](https://github.com/dimitrilory44/angular-cvtheque/tree/backend/spring)** : Branche de l'application coté serveur
 
