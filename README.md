@@ -1,27 +1,23 @@
-# AngularCvtheque
+# 📁 CVthèque - Application de Gestion de CVs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
+**CVthèque** est une application web qui permet de centraliser, consulter et gérer des CVs de candidats. Elle est conçue pour les recruteurs ou les services RH souhaitant rechercher des profils rapidement, filtrer par compétences ou expériences, et accéder à des fiches détaillées de candidats.
 
-## Development server
+- **develop** : Première version du projet (en cours de développement)
+- **frontend/angular** : Interface de l'application
+- **backend/spring** : Gestion des données
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 🌱 Branches principales
 
-## Code scaffolding
+- **[develop](https://github.com/dimitrilory44/ProjetPortfolio/tree/legacy)** : Branche de la version actuelle de l'application.
+- **[frontend/angular](https://github.com/dimitrilory44/angular-cvtheque/tree/frontend/angular)** : Branche de l'application coté client
+- **[backend/spring](https://github.com/dimitrilory44/angular-cvtheque/tree/backend/spring)** : Branche de l'application coté serveur
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🔧 Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### 1. Cloner le repo (indiquer la branche du que vous souhaiter cloner)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+```bash
+git clone https://github.com/dimitrilory44/repo.git
+cd ton-repo
